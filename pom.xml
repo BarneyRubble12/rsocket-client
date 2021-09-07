@@ -17,7 +17,8 @@
   <description>rsocket-client</description>
 
   <properties>
-    <java.version>11</java.version>
+    <java.version>16</java.version>
+    <maven.compiler.target>16</maven.compiler.target>
   </properties>
   <dependencies>
     <dependency>
